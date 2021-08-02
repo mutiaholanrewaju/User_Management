@@ -1,0 +1,16 @@
+C:\Users\ummu abdullahi\OneDrive\Documents\womentechsters\Backend\week10\UserMgtConsoleApp\bin\Debug\net5.0\UserMgtConsoleApp.exe
+C:\Users\ummu abdullahi\OneDrive\Documents\womentechsters\Backend\week10\UserMgtConsoleApp\bin\Debug\net5.0\UserMgtConsoleApp.deps.json
+C:\Users\ummu abdullahi\OneDrive\Documents\womentechsters\Backend\week10\UserMgtConsoleApp\bin\Debug\net5.0\UserMgtConsoleApp.runtimeconfig.json
+C:\Users\ummu abdullahi\OneDrive\Documents\womentechsters\Backend\week10\UserMgtConsoleApp\bin\Debug\net5.0\UserMgtConsoleApp.runtimeconfig.dev.json
+C:\Users\ummu abdullahi\OneDrive\Documents\womentechsters\Backend\week10\UserMgtConsoleApp\bin\Debug\net5.0\UserMgtConsoleApp.dll
+C:\Users\ummu abdullahi\OneDrive\Documents\womentechsters\Backend\week10\UserMgtConsoleApp\bin\Debug\net5.0\ref\UserMgtConsoleApp.dll
+C:\Users\ummu abdullahi\OneDrive\Documents\womentechsters\Backend\week10\UserMgtConsoleApp\bin\Debug\net5.0\UserMgtConsoleApp.pdb
+C:\Users\ummu abdullahi\OneDrive\Documents\womentechsters\Backend\week10\UserMgtConsoleApp\obj\Debug\net5.0\UserMgtConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ummu abdullahi\OneDrive\Documents\womentechsters\Backend\week10\UserMgtConsoleApp\obj\Debug\net5.0\UserMgtConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ummu abdullahi\OneDrive\Documents\womentechsters\Backend\week10\UserMgtConsoleApp\obj\Debug\net5.0\UserMgtConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ummu abdullahi\OneDrive\Documents\womentechsters\Backend\week10\UserMgtConsoleApp\obj\Debug\net5.0\UserMgtConsoleApp.AssemblyInfo.cs
+C:\Users\ummu abdullahi\OneDrive\Documents\womentechsters\Backend\week10\UserMgtConsoleApp\obj\Debug\net5.0\UserMgtConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ummu abdullahi\OneDrive\Documents\womentechsters\Backend\week10\UserMgtConsoleApp\obj\Debug\net5.0\UserMgtConsoleApp.dll
+C:\Users\ummu abdullahi\OneDrive\Documents\womentechsters\Backend\week10\UserMgtConsoleApp\obj\Debug\net5.0\ref\UserMgtConsoleApp.dll
+C:\Users\ummu abdullahi\OneDrive\Documents\womentechsters\Backend\week10\UserMgtConsoleApp\obj\Debug\net5.0\UserMgtConsoleApp.pdb
+C:\Users\ummu abdullahi\OneDrive\Documents\womentechsters\Backend\week10\UserMgtConsoleApp\obj\Debug\net5.0\UserMgtConsoleApp.genruntimeconfig.cache
